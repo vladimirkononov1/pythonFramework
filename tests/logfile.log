@@ -1,0 +1,113 @@
+2020-11-03 15:44:29,029 :INFO : test_e2e :getting all the cart titles
+2020-11-03 15:44:29,471 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-03 15:44:35,792 :INFO : test_e2e :string appeared on the page is: ?
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-03 16:04:38,173 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-03 16:04:38,173 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:04:38,174 :INFO : test_formSubmission :Gender is: Male
+2020-11-03 16:04:39,845 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:04:39,845 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:04:39,846 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:04:39,846 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:04:39,847 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:04:39,847 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:10:44,672 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-03 16:10:44,673 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:10:44,673 :INFO : test_formSubmission :Gender is: Male
+2020-11-03 16:10:45,869 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:10:45,869 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:10:45,869 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:10:45,869 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:10:45,870 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:10:45,870 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:11:55,873 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-03 16:11:55,873 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:11:55,874 :INFO : test_formSubmission :Gender is: Male
+2020-11-03 16:11:56,924 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:11:56,924 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-03 16:11:56,924 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:11:56,924 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-03 16:11:56,925 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:11:56,925 :INFO : test_formSubmission :Gender is: Female
+2020-11-03 16:12:07,337 :INFO : test_e2e :getting all the cart titles
+2020-11-03 16:12:07,609 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:16:54,971 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:16:54,973 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:16:54,973 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:16:55,765 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:17:04,507 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:17:04,653 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:19:29,989 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:19:29,989 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:19:29,989 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:19:30,744 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:19:30,744 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:19:30,745 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:19:30,745 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:19:30,745 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:19:30,745 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:19:38,801 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:19:39,019 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:23:31,468 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:23:31,468 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:23:31,468 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:23:32,216 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:23:39,734 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:27:12,817 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:27:12,817 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:27:12,817 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:27:13,608 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:27:21,654 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:27:21,825 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:29:30,143 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:29:30,144 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:29:30,144 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:29:30,916 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:29:30,916 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:29:30,916 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:29:30,916 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:29:30,917 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:29:30,917 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:29:38,982 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:29:39,126 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:29:44,710 :INFO : test_e2e :string appeared on the page is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-04 14:37:22,425 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:37:22,425 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:37:22,425 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:37:23,215 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:37:32,603 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:37:32,737 :INFO : addProductToCart :Text received from application is Blackberry
+2020-11-04 14:37:38,301 :INFO : test_e2e :string appeared on the page is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-04 14:38:15,919 :INFO : test_formSubmission :The name is: Rahul Shetty
+2020-11-04 14:38:15,920 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:38:15,920 :INFO : test_formSubmission :Gender is: Male
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :The name is: Anshika Shetty
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :Email is: test@test.com
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:38:16,274 :INFO : test_formSubmission :Gender is: Female
+2020-11-04 14:38:24,360 :INFO : test_e2e :getting all the cart titles
+2020-11-04 14:38:24,503 :INFO : addProductToCart :Text received from application is Blackberry
