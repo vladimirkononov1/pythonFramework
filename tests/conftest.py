@@ -6,6 +6,9 @@ def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
     )
+    parser.addoption(
+        "--url_select", action="store", default="develop"
+    )
 
 
 @pytest.fixture(scope="class")
@@ -23,7 +26,12 @@ def setup(request):
         driver = webdriver.Ie(executable_path="C:\\Users\\vladi\\PythonTesting\\IEDriverServer.exe")
         driver.get("https://rahulshettyacademy.com/angularpractice/")
         driver.maximize_window()
-    driver.get("https://rahulshettyacademy.com/angularpractice/")
+    # driver.get("https://rahulshettyacademy.com/angularpractice/")
+    url = request.config.getoption("url_select")
+    if url == "develop":
+        driver.get("https://rahulshettyacademy.com/angularpractice/")
+    elif url == "prod":
+        driver.get("https://rahulshettyacademy.com/AutomationPractice/")
     request.cls.driver = driver
     yield
     driver.close()
